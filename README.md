@@ -5,9 +5,9 @@ This is test task for Effective Mobile.
 
 ### Technologies
 
->Swagger: https://redis.io/docs/install/install-redis/
+>Swagger: https://swagger.io
 >
->Migrations golang-migrate/migrate: https://github.com/golang-migrate/migrate
+>Migrations CLI golang-migrate/migrate: https://github.com/golang-migrate/migrate
 >
 >PostgreSQL: https://www.postgresql.org
 >
