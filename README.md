@@ -22,7 +22,7 @@ git clone https://github.com/Lopsrc/effective-mobile-task
 
 ### Preparation
 
-Edit the local.env file. Specify your bot's token:
+Edit the local.env file:
 ```
 vim config/api.env
 vim config/local.yaml
